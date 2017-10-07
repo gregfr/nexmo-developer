@@ -59,3 +59,5 @@ Below you can find an example of what to expect in the payload.
     "message-timestamp": "2017-01-01 00:00:00"
 }
 ````
+
+You will actually receive the payload as GET parameters in the URL, not as JSON.
